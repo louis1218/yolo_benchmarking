@@ -1,0 +1,8 @@
+ultralytics
+onnx
+onnxsim
+onnx2tf 
+onnx-graphsurgeon 
+tflite_support
+sng4onnx
+
